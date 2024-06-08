@@ -1,0 +1,3 @@
+total 888
+-rw-r--r--@ 1 jakemcintosh  staff  452606 Apr  5 11:24 lab-01-folders.png
+-rw-r--r--@ 1 jakemcintosh  staff       0 Apr  5 11:30 lab-01-folders.txt
